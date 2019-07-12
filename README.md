@@ -1,3 +1,5 @@
+Nicolas Charlet
+
 # Working with Local Branches
 
 ## Learning Goals
@@ -206,5 +208,3 @@ and continue to work with them locally.
 ## Resources
 
 - [Pushing to a remote](https://help.github.com/en/articles/pushing-to-a-remote)
-
-
